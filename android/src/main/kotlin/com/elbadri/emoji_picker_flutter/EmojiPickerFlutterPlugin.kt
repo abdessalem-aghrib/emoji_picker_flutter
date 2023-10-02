@@ -1,4 +1,4 @@
-package com.fintasys.emoji_picker_flutter
+package com.elbadri.emoji_picker_flutter
 
 import android.graphics.Paint
 import androidx.annotation.NonNull

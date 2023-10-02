@@ -1,4 +1,6 @@
-group 'com.fintasys.emoji_picker_flutter'
+package android
+
+group 'com.elbadri.emoji_picker_flutter'
 version '1.0-SNAPSHOT'
 
 buildscript {
